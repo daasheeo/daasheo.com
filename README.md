@@ -1,3 +1,3 @@
 # daasheo.com
  
-This is my main web and my personal portfolio.
+This is my main website and my personal portfolio.
